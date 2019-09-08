@@ -2,7 +2,7 @@
 The code and data are for reviewing paper 'Hierarchical Bi-directional Self-Attention Networks for Paper Review Rating Prediction'
 
 ## Dataset
-The open review datasets is already in the "data" folder of HabNet code folder, there are two files in "data" folder: "ICLR_Review_all_with_decision_processed.csv" is used for the main task of predicting acceptance decsions for papers; "ICLR_Review_all_processed.csv" is used for the sub-task of predicting ratings for reviews.
+The open review datasets (processed) are already in the "data" folder of HabNet code folder, there are two files in "data" folder: "ICLR_Review_all_with_decision_processed.csv" is used for the main task of predicting acceptance decsions for papers; "ICLR_Review_all_processed.csv" is used for the sub-task of predicting ratings for reviews.
 
 ## Code
 
