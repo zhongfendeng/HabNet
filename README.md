@@ -29,7 +29,7 @@ python data_prepare.py
 
 Second step: train and evaluate the model:
 <br>
-*(make sure [Glove embeddings](#requirements) are ready before training), put glove.6B.50d.txt in HabNet, and put glove.6B.100d.txt in HabNet_MC*
+*(make sure [Glove embeddings](#requirements) are ready before training, put glove.6B.50d.txt in HabNet, and put glove.6B.100d.txt in HabNet_MC)*
 ```
 wget http://nlp.stanford.edu/data/glove.6B.zip
 unzip glove.6B.zip
