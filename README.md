@@ -5,7 +5,7 @@ The code and data are for reviewing paper 'Hierarchical Bi-directional Self-Atte
 There are two folders of code: HabNet is the code for the main task of predicting final acceptance decisions for papers; HabNet_MC is the code for the sub_task of predicting ratings for reviews. The steps to run them are the same as shown in following section "Usage".
 
 ## Dataset
-The open review datasets (processed) collected by us are already in the "data" folder of HabNet and HabNet_MC folder. "ICLR_Review_all_with_decision_processed.csv" is used for the main task of predicting acceptance decsions for papers, it is located in "data" folder of HabNet; "ICLR_Review_all_processed.csv" is used for the sub-task of predicting ratings for reviews, it is located in "data" folder of HabNet_MC.
+The ICLR OpenReview datasets (processed) collected by us are in the folder "ICLR_OpenReview_Data" which includes two files "ICLR_Review_all_with_decision_processed.csv" and "ICLR_Review_all_processed.csv". There is also a copy of these two files in the "data" folder of HabNet and HabNet_MC respectively. "ICLR_Review_all_with_decision_processed.csv" is used for the main task of predicting acceptance decsions for papers, its copy is located in "data" folder of HabNet; "ICLR_Review_all_processed.csv" is used for the sub-task of predicting ratings for reviews, its copy is located in "data" folder of HabNet_MC.
 
 
 ## Code
