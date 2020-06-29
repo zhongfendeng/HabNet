@@ -1,5 +1,5 @@
 # HabNet
-The code and data are for reviewing paper 'Hierarchical Bi-directional Self-Attention Networks for Paper Review Rating Prediction'
+The code and data are only used for reviewing paper 'Hierarchical Bi-directional Self-Attention Networks for Paper Review Rating Prediction'. They will be made public only after this paper being accepted for COLING 2020.
 
 ## Code overview
 There are two folders of code: HabNet is the code for the main task of predicting final acceptance decisions for papers; HabNet_MC is the code for the sub_task of predicting ratings for reviews. The steps to run them are the same as shown in following section "Usage".
